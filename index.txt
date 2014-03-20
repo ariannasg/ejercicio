@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿Continuamos con el ejercicio remoto.
+=======
+Index de Gema
+>>>>>>> c08cfb06ae72cfda37cf99dece7eab20aafdee64
